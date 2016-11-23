@@ -3,13 +3,13 @@
 /// ~ Change these values! ~ ///
 
 // YouTube channel ID
-const CHANNELID = "REPLACE_WITH_CHANNEL_ID";
+const CHANNELID = "UC1NB1xUQ8ItM5VoA4101lUQ";
 
 // Secret - must match ytnotify_subscribe script; should be reasonably hard to guess
-const SECRET = "REPLACE_WITH_UNIQUE_SECRET";
+const SECRET = "520W83VHGAE1";
 
 // Discord webhook URL
-const WEBHOOKURL = "REPLACE_WITH_WEBHOOK_URL";
+const WEBHOOKURL = "https://discordapp.com/api/webhooks/251029717891809280/U-7vKv6Lju_AYwHPMocth3loAyV5wBenRilKdlnVnC7B6QI1LqYObtUVtvl1doeCVjki";
 
 ///   ///   ///  ///   ///   ///
 
